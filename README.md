@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Yacine 👋
 
 <!--
 **mrassiyacine/mrassiyacine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a Junior Data Engineer with a Master’s degree in Computer Science, driven by a strong passion for learning and a relentless motivation to grow in the field of data engineering. With two valuable internships under my belt, I’ve gained hands-on experience in ETL processes, data infrastructure, and cloud technologies.  
+
+Currently, I’m exploring the fascinating world of GIS, diving into tools like **PostGIS**, **QGIS**, and **GeoPandas** to expand my expertise in geospatial data processing.  
+
+---
+
+
+
+## 📫 **Let’s Connect**  
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mrassiyacine/)  
+
+---
+
+Feel free to reach out if you’d like to collaborate, discuss data engineering, or share insights about GIS! 😄  
