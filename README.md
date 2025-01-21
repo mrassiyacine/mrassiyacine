@@ -24,7 +24,7 @@ Currently, I’m exploring the fascinating world of GIS, diving into tools like 
 
 
 ## 📫 **Let’s Connect**  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mrassiyacine/)  
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/mrassiyacine/)  
 
 ---
 
